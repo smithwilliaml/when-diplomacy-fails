@@ -1,9 +1,11 @@
-# Island Flamingo – play in your browser
+# When Diplomacy Fails – play in your browser
 
-Risk-style strategy game made with Godot 4.5. This repo only holds the web
-build; the source lives in a separate private repo.
+Risk-style strategy game made with Godot. This repo only holds the web
+build; the source lives in a separate private repo
+(when-diplomacy-fails-source). The game used to be called Island Flamingo,
+and its old address (island-flamingo-play) redirects here.
 
-**Play:** https://smithwilliaml.github.io/island-flamingo-play/
+**Play:** https://smithwilliaml.github.io/when-diplomacy-fails/
 
 - Click a map (or press its number) to start.
 - Place armies by clicking your states, click an enemy state to attack,
